@@ -1,6 +1,15 @@
 # Python Codecademy Projects #
 This repository contains a collection of projects and code challenges I've completed using Python on Codecademy's Learn Python 3 course. 
 
+## Code Challenges ##
+ - [x] Control Flow
+ - [x] Lists
+ - [x] Loops
+ - [x] Functions
+ - [x] Strings
+ - [x] Dictionaries
+ - [x] Classes
+
 ## Projects ##
  - [x] Block Letters
  - [x] Receipts for Lovely Loveseats
@@ -16,11 +25,3 @@ This repository contains a collection of projects and code challenges I've compl
  - [x] Hacking the Fender
  - [x] Basta Fazoolin'
 
-## Code Challenges ##
- - [x] Control Flow
- - [x] Lists
- - [x] Loops
- - [x] Functions
- - [x] Strings
- - [x] Dictionaries
- - [x] Classes
