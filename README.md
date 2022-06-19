@@ -1,5 +1,5 @@
 # Python Codecademy Projects #
-This repository contains a collection of projects and code challenges I've completed using Python on Codecademy's Learn Python 3 course. 
+This repository contains the Python projects and code challenges I've completed on Codecademy's Learn Python 3 course. 
 
 ## Code Challenges ##
  - [x] Control Flow
@@ -11,19 +11,32 @@ This repository contains a collection of projects and code challenges I've compl
  - [x] Classes
 
 ## Projects ##
- - [x] [Block Letters](https://github.com/emmaclarem/python-codecademy-projects/blob/main/block-letters.py)
- - [x] [Receipts for Lovely Loveseats](https://github.com/emmaclarem/python-codecademy-projects/blob/main/receipts-for-lovely-loveseats.py)
- - [x] [Magic 8-Ball](https://github.com/emmaclarem/python-codecademy-projects/blob/main/magic-8-ball.py)
- - [x] [Sal's Shipping](https://github.com/emmaclarem/python-codecademy-projects/blob/main/sals-shipping.py)
- - [x] [Gradebook](https://github.com/emmaclarem/python-codecademy-projects/blob/main/gradebook.py)
- - [x] [Len's Slice](https://github.com/emmaclarem/python-codecademy-projects/blob/main/lens-slice.py)
- - [x] [Carly's Clippers](https://github.com/emmaclarem/python-codecademy-projects/blob/main/carlys-clippers.py)
- - [x] Getting Ready for Physics Class
- - [x] Reggie's Linear Regression
- - [x] Thread Shed
+Organized in reverse choronological order - from most complex (end of course) to simplest (beginning of course).
+ - [x] [Basta Fazoolin'](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-projects-codecademy/basta-fazoolin.py)
+ - [x] [Hacking the Fender](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-projects-codecademy/hacking-the-fender.py)
+ - [x] Abruptly Goblins 
  - [x] Coded Correspondance
- - [x] Scrabble
- - [x] Abruptly Goblins
- - [x] Hacking the Fender
- - [x] Basta Fazoolin'
+ - [x] [Thread Shed](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-projects-codecademy/thread-shed.py)
+ - [x] [Scrabble](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-projects-codecademy/scrabble.py)
+ - [x] Reggie's Linear Regression
+ - [x] [Getting Ready for Physics Class](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-projects-codecademy/physics-class.py)
+ - [x] [Carly's Clippers](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-projects-codecademy/carlys-clippers.py)
+ - [x] [Len's Slice](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-projects-codecademy/lens-slice.py)
+ - [x] [Gradebook](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-projects-codecademy/gradebook.py)
+ - [x] [Sal's Shipping](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-projects-codecademy/sals-shipping.py)
+ - [x] [Magic 8-Ball](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-projects-codecademy/magic-8-ball.py)
+ - [x] [Receipts for Lovely Loveseats](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-projects-codecademy/receipts-for-lovely-loveseats.py)
+ - [x] [Block Letters](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-projects-codecademy/block-letters.py)
+
+
+
+
+
+
+
+
+
+ 
+ 
+
 
