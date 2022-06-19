@@ -21,7 +21,9 @@ This repository contains a collection of projects and code challenges I've compl
  - [x] Getting Ready for Physics Class
  - [x] Reggie's Linear Regression
  - [x] Thread Shed
+ - [x] Coded Correspondance
  - [x] Scrabble
+ - [x] Abruptly Goblins
  - [x] Hacking the Fender
  - [x] Basta Fazoolin'
 
