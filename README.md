@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://user-images.githubusercontent.com/104512014/176559133-f6434a3e-02ea-403e-892d-644b4401ea88.png" height="70px"/> </p>
+
 # Python Codecademy Projects #
 This repository contains the Python projects and code challenges I've completed on Codecademy's Learn Python 3 course. 
 
