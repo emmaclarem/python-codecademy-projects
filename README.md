@@ -7,8 +7,8 @@ This repository contains the Python projects and code challenges I've completed 
 My solutions to Codecademy's Code Challenges, presented in Jupyter Notebook format. Each notebook contains 10 code challenges.
  - [x] [Control Flow](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-control-flow-challenges.ipynb)
  - [x] [Lists](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-lists-challenges.ipynb)
- - [x] Loops
- - [x] Functions
+ - [x] [Loops](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-loops-challenges.ipynb)
+ - [x] [Functions](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-functions-challenges.ipynb)
  - [x] Strings
  - [x] Dictionaries
  - [x] Classes
