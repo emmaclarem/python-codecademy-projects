@@ -4,7 +4,7 @@
 This repository contains the Python projects and code challenges I've completed on Codecademy's Learn Python 3 course. 
 
 ## Code Challenges ##
-My solutions to Codecademy's Code Challenges, presented in Jupyter Notebook format. Each notebook contains 10 code challenges.
+My solutions to Codecademy's Code Challenges, presented in Jupyter Notebook format. Each notebook contains 5-10 code challenges.
  - [x] [Control Flow](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-control-flow-challenges.ipynb)
  - [x] [Lists](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-lists-challenges.ipynb)
  - [x] [Loops](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-loops-challenges.ipynb)
