@@ -9,7 +9,7 @@ My solutions to Codecademy's Code Challenges, presented in Jupyter Notebook form
  - [x] [Lists](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-lists-challenges.ipynb)
  - [x] [Loops](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-loops-challenges.ipynb)
  - [x] [Functions](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-functions-challenges.ipynb)
- - [x] Strings
+ - [x] [Strings](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-strings-challenges.ipynb)
  - [x] Dictionaries
  - [x] Classes
 
