@@ -10,8 +10,8 @@ My solutions to Codecademy's Code Challenges, presented in Jupyter Notebook form
  - [x] [Loops](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-loops-challenges.ipynb)
  - [x] [Functions](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-functions-challenges.ipynb)
  - [x] [Strings](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-strings-challenges.ipynb)
- - [x] Dictionaries
- - [x] Classes
+ - [x] [Dictionaries](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-dictionaries-challenges.ipynb)
+ - [x] [Classes](https://github.com/emmaclarem/python-codecademy-projects/blob/main/python-code-challenges-codecademy/python-classes-challenges.ipynb)
 
 ## Projects ##
 Organized in reverse choronological order - from most complex (end of course) to simplest (beginning of course).
